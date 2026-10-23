@@ -1,3 +1,3 @@
-theme:ivan-theme-minimal
-title:Ivan's Online Store
-description: Welcome To Our Storr
+theme: jekly-theme-minimal
+title: Philippines Store
+description: Welcome To Philippines Store
